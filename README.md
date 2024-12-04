@@ -21,7 +21,8 @@ This script sends a WhatsApp message alert if rain is forecasted in your locatio
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Pooja389/rain_tracker.git
-   cd rain_tracker```
+   cd rain_tracker
+   ```
 
 2. **install required package**
    pip install requests twilio
